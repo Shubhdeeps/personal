@@ -1,0 +1,15 @@
+---
+application:
+  name: "shubhdeeps"
+  project: "shubhdeeps"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "Projects.notes"
+  version: "3.6"
+routers:
+- name: "main-shubhdeeps"
+  routes:
+  - application_name: "shubhdeeps"
+    paths:
+    - "/*"
