@@ -1,2285 +1,2285 @@
 [
-    {
-      "Number": "E100",
-      "Name": "Curcumin",
-      "Description": "Naturally occurring orange/yellow colour, extracted from the spice turmeric",
-      "Use": "Used in pastries, confectionery, sauces and soups",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E101",
-      "Name": "Riboflavin or lactoflavin",
-      "Description": "Naturally occurring B group vitamin usually obtained from yeast or produced synthetically.",
-      "Use": "Enrichment and fortification of food. Added to processed cheese as yellow/orange colour",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E102",
-      "Name": "Tartrazine",
-      "Description": "Widely used yellow/orange colour",
-      "Use": "Found in soft drinks, cakes, biscuits, puddings, meat products, sauces, tinned and packet convenience foods and confectionery",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E104",
-      "Name": "Quinoline Yellow",
-      "Description": "A synthetic coal tar dye, greenish yellow in colour",
-      "Use": "Used with other yellow colours, especially in smoked fish",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E110",
-      "Name": "Sunset Yellow",
-      "Description": "A synthetic coal tar dye, yellow in colour, used with E102",
-      "Use": "Found in soft drinks, cakes, biscuits, puddings, meat products, sauces, tinned and packet convenience foods and confectionery",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E120",
-      "Name": "Cochineal",
-      "Description": "Natural red colour obtained from egg yolk and dried insects. Can be manufactured",
-      "Use": "Red colour in foods",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E122",
-      "Name": "Carmoisine",
-      "Description": "A synthetic coal tar dye, red/purple in colour",
-      "Use": "Often added to raspberry and chocolate flavoured deserts, marzipan, jam, cherryade, bottled sauce and breaded products",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E123",
-      "Name": "Amaranth",
-      "Description": "A synthetic coal tar dye, red in colour",
-      "Use": "Sometimes used in gravy mixes, meat patties, and blackcurrant drinks",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E124",
-      "Name": "Ponceau 4R",
-      "Description": "A synthetic coal tar dye, red in colour",
-      "Use": "Often used to restore red colour to tinned strawberries. Also added to strawberry jam, jelly and ice cream, tomato soup, savoury rice, cheesecake mix and some meat products",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E127",
-      "Name": "Erythrosine",
-      "Description": "A synthetic coal tar dye, red in colour, rich in mineral iodine.",
-      "Use": "Regular component of glace cherries, peach melba yogurt, vacuum-packed ham and pork, tinned strawberries and certain flavours of chips and potato based snacks.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E128",
-      "Name": "Red 2G",
-      "Description": "A synthetic coal tar dye, red in colour.",
-      "Use": "Pork pies, sausages and other meat products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E129",
-      "Name": "Allura Red AC",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E131",
-      "Name": "Patent Blue V",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E132",
-      "Name": "Indigo Carmine",
-      "Description": "A synthetic coal tar dye, blue in colour.",
-      "Use": "Added to gravy mix and certain meat products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E133",
-      "Name": "Brilliant Blue",
-      "Description": "A synthetic coal tar dye, blue in colour. Often mixed with E102 to make green.",
-      "Use": "Bacon flavour snacks.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E140",
-      "Name": "Chlorophyll",
-      "Description": "Naturally occurring green pigment found in leaves and stems of plants. Also manufactured.",
-      "Use": "Added to green vegetables to enhance their colour.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E141",
-      "Name": "Copper complex of Chlorophyll",
-      "Description": "A more stable colour obtained by a reaction between copper and manufactured chlorophyll.",
-      "Use": "Used to heighten the green colour of products such as cucumber relish.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E142",
-      "Name": "Green S",
-      "Description": "A synthetic coal tar dye, green in colour.",
-      "Use": "Used to restore the expected green colour to tinned peas. Also added to asparagus soup, lemon or lime drinks and jellies and mint sauce.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E150",
-      "Name": "Caramel",
-      "Description": "Commonly used brown colour and flavouring agent made from the caramelisation or burning of sugar by heat or chemicals.",
-      "Use": "Used in soft drinks, gravy mix, brown bread, cakes, biscuits, malt vinegar, marmalade and beef products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E150b",
-      "Name": "Caustic sulphite caramel",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E150c",
-      "Name": "Ammonia caramel",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E150d",
-      "Name": "Sulphite ammonia caramel",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E151",
-      "Name": "Black PN",
-      "Description": "A synthetic coal tar dye, black in colour.",
-      "Use": "Used to darken fruits sauces.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E153",
-      "Name": "Carbon Black/Vegetable Carbon",
-      "Description": "Natural black colour obtained from burnt plant material, now often manufactured.",
-      "Use": "Added to concentrated fruit juices, preserves and jellies.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E154",
-      "Name": "Brown FK",
-      "Description": "A synthetic coal tar dye, brown in colour.",
-      "Use": "Added to smoked fish.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E155",
-      "Name": "Chocolate Brown HT",
-      "Description": "A synthetic coal tar dye, brown in colour.",
-      "Use": "Various foods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160 a - f",
-      "Name": "Carotenoids",
-      "Description": "Plant pigments derived from carrots, tomatoes, apricots, oranges, rosehip and green leafy vegetables. Now mostly manufactured.",
-      "Use": "Provide a range of colours from yellow to red.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160a",
-      "Name": "Alpha-, Beta, Gamma-carotenes",
-      "Description": "Beta-carotene is a well-known substance that is converted by the body to Vitamin A. Orange in colour.",
-      "Use": "Added to biscuits, cakes, margarine, creamed rice, cheese products and certain soups.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160b",
-      "Name": "Annatto",
-      "Description": "Orange/peach pigment naturally present in butter and cheese.",
-      "Use": "Used to give creamy colour to creamed rice, coffee creamer, pastry, cheese and cheese products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160c",
-      "Name": "Paprika extract; Capsanthian; Capsorubin",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160d",
-      "Name": "Lycopene",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160e",
-      "Name": "Beta-apo-8'-carotenal (C30)",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E160f",
-      "Name": "Ethyl ester of beta-apo-8'-carotenoic acid (C30)",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E161 a: g",
-      "Name": "Xanthrophylls",
-      "Description": "Carotenoid pigments providing natural yellow to red colours.",
-      "Use": "No typical products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E161b",
-      "Name": "Lutein",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E161g",
-      "Name": "Canthaxanthin",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E162",
-      "Name": "Betanin (Beetroot Red)",
-      "Description": "Naturally occurring red/purple colour in beetroots.",
-      "Use": "May be added to oxtail soup.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E163",
-      "Name": "Anthocyanins",
-      "Description": "Plant pigments with colours ranging from red to blue.",
-      "Use": "Naturally present in red cabbage and grapes.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E170",
-      "Name": "Calcium Carbonate (Chalk)",
-      "Description": "Naturally occurring mineral. It has various functions including acid regulator, firming agent, releasing agent and nutrient.",
-      "Use": "It is added to white flour as a calcium supplement to replace the loss due to refining. Frequently an ingredient in bread and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E170",
-      "Name": "Calcium carbonates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E171",
-      "Name": "Titanium dioxide",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E172",
-      "Name": "Iron oxide",
-      "Description": "Naturally occurring mineral. Added to fortify food.",
-      "Use": "Added to flour and breakfast cereals.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E173",
-      "Name": "Aluminium",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E174",
-      "Name": "Silver",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E175",
-      "Name": "Gold",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E180",
-      "Name": "Litholrubine BK",
-      "Description": "Colouring agent",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E200",
-      "Name": "Sorbic Acid",
-      "Description": "Naturally occurring in some fruit but generally manufactured synthetically for use as a food preservative.",
-      "Use": "Commonly added to soft drinks, cheese spread, frozen pizza and cakes.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E201",
-      "Name": "Sodium Sorbate",
-      "Description": "Salt of Sorbic Acid.",
-      "Use": "As for Sorbic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E202",
-      "Name": "Potassium Sorbate",
-      "Description": "Salt of Sorbic Acid.",
-      "Use": "Used to preserve glace cherries.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E203",
-      "Name": "Calcium Sorbate",
-      "Description": "Salt of Sorbic Acid.",
-      "Use": "As for Sorbic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E210",
-      "Name": "Benzoic Acid",
-      "Description": "Occurs naturally in cherry bark, raspberries, tea, anise and cassia bark, but largely prepared synthetically for commercial use.",
-      "Use": "Acts as a preservative and anti-oxidant most frequently in fruit products, soft drinks, pickled produce and salad dressings.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E211",
-      "Name": "Sodium Benzoate",
-      "Description": "Salt of Benzoic Acid.",
-      "Use": "In bottled sauces.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E212",
-      "Name": "Potassium Benzoate",
-      "Description": "Salt of Benzoic Acid.",
-      "Use": "As per Benzoic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E213",
-      "Name": "Calcium Benzoate",
-      "Description": "Salt of Benzoic Acid.",
-      "Use": "As per Benzoic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E214",
-      "Name": "Ethyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E214-219",
-      "Name": "Hydroxy Benzoate salts",
-      "Description": "Salts of Benzoic Acid.",
-      "Use": "As per Benzoic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E215",
-      "Name": "Sodium ethyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E216",
-      "Name": "Propyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E217",
-      "Name": "Sodium propyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E218",
-      "Name": "Methyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E219",
-      "Name": "Sodium methyl p-hydroxybenzoate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E220",
-      "Name": "Sulfur Dioxide",
-      "Description": "Gas prepared chemically for use as a food preservative, flour improver, bleaching agent and vitamin C stabiliser.",
-      "Use": "Found in carbonated drinks, marmalade, glace cherries, mixed peel, cakes, fruit based products and meat products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E221",
-      "Name": "Sodium sulphite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E222",
-      "Name": "Sodium Hydrogen Sulphite/Bisulphite",
-      "Description": "Synthetic preservative and bleaching agent.",
-      "Use": "Often added to wine and beer.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E223",
-      "Name": "Sodium Metabisulphite",
-      "Description": "Synthetic preservative.",
-      "Use": "Added to sausages and some bottled sauces.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E224",
-      "Name": "Potassium metabisulphite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E226",
-      "Name": "Calcium sulphite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E227",
-      "Name": "Calcium hydrogen sulphite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E228",
-      "Name": "Potassium hydrogen sulphite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E230",
-      "Name": "Biphenyl; diphenyl",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E231",
-      "Name": "Orthophenyl phenol",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E232",
-      "Name": "Sodium orthophenyl phenol",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E234",
-      "Name": "Nisin",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E235",
-      "Name": "Natamycin",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E239",
-      "Name": "Hexamethylene tetramine",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E242",
-      "Name": "Dimethyl dicarbonate",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E249",
-      "Name": "Potassium Nitrite",
-      "Description": "Naturally occurring mineral used as a preservative and as a colour fixative.",
-      "Use": "Used in cooked meats, sausages and in cured meats.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E250",
-      "Name": "Sodium Nitrite",
-      "Description": "Derived from sodium nitrate by chemical or bacterial action. Acts as a preservative and colour fixative.",
-      "Use": "Added to cooked and cured meats, bacon and pork sausages.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E250",
-      "Name": "Sodium nitrite",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E251",
-      "Name": "Sodium Nitrate",
-      "Description": "Naturally occurring mineral usually manufactured synthetically for use as a food preservative and colour fixative.",
-      "Use": "In cooked meats, bacon, ham and cheese.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E252",
-      "Name": "Potassium Nitrate",
-      "Description": "Naturally occurring but more usually produced artificially from waste animal and vegetable material. This additive is one of the oldest and most effective preservatives for meat. Also acts as a curing agent.",
-      "Use": "Found in cured and cooked meats, and sausages.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E260",
-      "Name": "Acetic Acid",
-      "Description": "Natural component of vinegar but generally manufactured from wood. Used as a preservative, acid or colour diluent.",
-      "Use": "Found in pickles, bottled sauces and chutneys.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E260",
-      "Name": "Acetic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E261",
-      "Name": "Potassium acetate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E262",
-      "Name": "Sodium acetate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E263",
-      "Name": "Calcium acetate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E270",
-      "Name": "Lactic Acid",
-      "Description": "Produced by the fermentation of lactose, which is the sugar present in milk. It occurs naturally in soured milk and yogurt and acts as a preservative, acid, flavour and assists the action of anti-oxidants.",
-      "Use": "Widely used in salad dressings, cakes, biscuits, confectionery and certain types of prepared meat dishes.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E270",
-      "Name": "Lactic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E280",
-      "Name": "Propionic Acid",
-      "Description": "Fatty acid produced by animals in the process of digestion, but generally manufactures synthetically. Functions as a preservative.",
-      "Use": "Added to baked goods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E281",
-      "Name": "Sodium Propionate",
-      "Description": "Salt of propionic acid.",
-      "Use": "Added to baked goods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E282",
-      "Name": "Calcium Propionate",
-      "Description": "Salt of propionic acid. Found naturally in Swiss cheese.",
-      "Use": "Added to baked goods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E283",
-      "Name": "Potassium Propionate",
-      "Description": "Salt of propionic acid.",
-      "Use": "Added to baked goods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E284",
-      "Name": "Boric acid",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E285",
-      "Name": "Sodium tetraborate; borax",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E290",
-      "Name": "Carbon Dioxide",
-      "Description": "Gas present in air, but produced synthetically for food. Adds the fizz to fizzy drinks (carbonation), but is also used as a coolant, freezant, propellant, preservative and packaging gas.",
-      "Use": "Carbonated drinks.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E290",
-      "Name": "Carbon dioxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E296",
-      "Name": "Malic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E297",
-      "Name": "Fumaric Acid",
-      "Description": "Prepared synthetically as an acid flavour.",
-      "Use": "Baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E300",
-      "Name": "L-Ascorbic Acid (Vitamin C)",
-      "Description": "Occurs naturally in fruit and vegetables but is synthesised biologically. It acts as a preservative, anti-oxidant, meat colour fixative, and flour improver. Also a vitamin.",
-      "Use": "Found in fruit juices, bread, baked products, powdered mashed potatoes, etc.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E301",
-      "Name": "Sodium L-Ascorbate",
-      "Description": "Salt of ascorbic acid.",
-      "Use": "Added to cured meats.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E302",
-      "Name": "Calcium L-Ascorbate",
-      "Description": "Salt of ascorbic acid.",
-      "Use": "Similar function to Ascorbic Acid.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E304",
-      "Name": "Ascorbyl Palmitate",
-      "Description": "Salt of ascorbic acid.",
-      "Use": "Used in sausage and cured meats.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E306",
-      "Name": "Tocopherol (Vitamin E)",
-      "Description": "Obtained from soya bean oil, wheatgerm, rice germ, cottonseed, maize and green leaves. Used as an antioxidant and nutrient.",
-      "Use": "Added to fats and oils.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E307",
-      "Name": "Synthetic Alpha Tocopherol",
-      "Description": "Synthetic products of Tocopherol with similar functions.",
-      "Use": "Added to fats, oils and sausages.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E308",
-      "Name": "Synthetic Gamma Tocopherol",
-      "Description": "Synthetic products of Tocopherol with similar functions.",
-      "Use": "Added to fats, oils and sausages.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E309",
-      "Name": "Synthetic Delta Tocopherol",
-      "Description": "Synthetic products of Tocopherol with similar functions.",
-      "Use": "Added to fats, oils and sausages.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E310",
-      "Name": "Propyl Gallate",
-      "Description": "Synthetically prepared antioxidant.",
-      "Use": "Added to fats and oils. Will be found in fried foods. May give rise to a bitter taste.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E311",
-      "Name": "Octyl Gallate",
-      "Description": "Synthetic product similar to Propyl Gallate with similar function.",
-      "Use": "Added to fats and oils.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E312",
-      "Name": "Dodecyl Gallate",
-      "Description": "Synthetic product similar to Propyl Gallate with similar function.",
-      "Use": "Added to fats and oils.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E315",
-      "Name": "Erythorbic acid",
-      "Description": "Antioxidants",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E316",
-      "Name": "Sodium erythorbate",
-      "Description": "Antioxidants",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E320",
-      "Name": "Butylated Hydroxyanisole (BHA)",
-      "Description": "Antioxidant manufactured synthetically for use alone or with E280, E310, or E330",
-      "Use": "Often found in chips and other potato snacks, biscuits, pastry, bottled sauces and fried foods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E321",
-      "Name": "Butylated Hydroxytoluene (BHT)",
-      "Description": "Synthetically prepared antioxidant.",
-      "Use": "Similar to Butylated Hydroxyanisole.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E322",
-      "Name": "Lecithins",
-      "Description": "Type of fat or lipid compound found naturally in all living organisms, protective against cholesterol deposition. Egg yolk is a rich source of lecithins, but commercially, most is obtained from soya beans. Used as an antioxidant, and emulsifier.",
-      "Use": "Found in chocolate and chocolate products, powdered milk, margarine and potato snacks.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E325",
-      "Name": "Sodium lactate",
-      "Description": "Salt of lactic acid (E270) used as a humectant",
-      "Use": "Added to confectionery."
-    },
-    {
-      "Number": "E326",
-      "Name": "Potassium Lactate",
-      "Description": "Salt of lactic acid (E270) used as an acid regulator.",
-      "Use": "Acid regulator.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E327",
-      "Name": "Calcium Lactate",
-      "Description": "Salt of lactic acid (E270) used as an acid regulator and firming agent",
-      "Use": "Frequently incorporated into baking powder."
-    },
-    {
-      "Number": "E330",
-      "Name": "Citric Acid",
-      "Description": "Occurs naturally in citrus fruit but may also be prepared from the fermentation of molasses. Used as an antioxidant, preservative, acid regulator and flour improver.",
-      "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E331",
-      "Name": "Sodium Citrate",
-      "Description": "Salt of Citric Acid with similar functions.",
-      "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E332",
-      "Name": "Potassium Citrate",
-      "Description": "Salt of Citric Acid with similar functions.",
-      "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E333",
-      "Name": "Calcium Citrate",
-      "Description": "Salt of Citric Acid, which acts as an acid regulator, emulsifier and firming agent.",
-      "Use": "Found in carbonated drinks, wine, confectionery and cheese products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E334",
-      "Name": "Tartaric Acid",
-      "Description": "Natural product of wine making used as an acid regulator.",
-      "Use": "Added to baking powder.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E335",
-      "Name": "Sodium L-Tartrate",
-      "Description": "Salt of Tartaric Acid with similar function.",
-      "Use": "Added to baking powder.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E336",
-      "Name": "Potassium L-Tartrate (Cream of Tartar)",
-      "Description": "Salt of Tartaric Acid with similar function.",
-      "Use": "Added to baking powder.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E337",
-      "Name": "Sodium potassium tartrate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E338",
-      "Name": "Phosphoric acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E339",
-      "Name": "Sodium phosphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E340",
-      "Name": "Potassium phosphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E341",
-      "Name": "Calcium Orthophosphates (Pyrophosphates)",
-      "Description": "Synthetic products of a naturally occurring mineral. Used as an anti-caking agent, acid regulator, emulsifier, flour improver, nutrient and an aid to antioxidants.",
-      "Use": "Found in potato snacks, pastry mix and baking powder.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E341",
-      "Name": "Calcium Phosphate",
-      "Description": "Rising agent.",
-      "Use": "Baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E343",
-      "Name": "Magnesium phosphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E350",
-      "Name": "Sodium malates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E351",
-      "Name": "Potassium malate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E352",
-      "Name": "Calcium malates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E353",
-      "Name": "Metatartaric acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E354",
-      "Name": "Calcium tartrate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E355",
-      "Name": "Adipic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E356",
-      "Name": "Sodium adipate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E357",
-      "Name": "Potassium adipate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E363",
-      "Name": "Succinic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E380",
-      "Name": "Triammonium citrate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E385",
-      "Name": "Calcium disodium ethylene diamine tetra-acetate; calcium disodium EDTA",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E400",
-      "Name": "Alginic Acid",
-      "Description": "Emulsifier, stabiliser and gelling agent or thickener extracted from brown seaweed.",
-      "Use": "Frequently added to ice cream, instant desserts and puddings.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E401",
-      "Name": "Sodium Alginate",
-      "Description": "Salt of Alginic Acid with similar functions.",
-      "Use": "As for E400.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E402",
-      "Name": "Potassium alginate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E403",
-      "Name": "Ammonium alginate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E404",
-      "Name": "Calcium alginate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E405",
-      "Name": "Propane-1,2-diol alginate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": ""
-    },
-    {
-      "Number": "E406",
-      "Name": "Agar",
-      "Description": "Naturally occurring gum extracted from seaweeds. It is not digested so acts a source of dietary fibre. Also acts as a stabiliser and gelling agent.",
-      "Use": "Used in tinned ham, meat glazes and in ice cream.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E407",
-      "Name": "Carrageenan (Irish Moss)",
-      "Description": "Gum naturally present in red seaweed. Used as an emulsifier, stabiliser, and gelling agent.",
-      "Use": "Found in ice cream.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E407a",
-      "Name": "Processed eucheuma seaweed",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E410",
-      "Name": "Locust Bean Gum (Carob Bean Seed Gum)",
-      "Description": "Natural extract from the Carob tree seed. Similar to E407.",
-      "Use": "Added to ice cream, and soups. Carob is a non-caffeine containing substitute for cocoa and chocolate. Used in beverages, confectionery and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E412",
-      "Name": "Guar Gum (Cluster Bean Gum)",
-      "Description": "Naturally occurring seed gum from a tree of the pea family. Used as a thickener and stabiliser.",
-      "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E413",
-      "Name": "Tragacanth",
-      "Description": "Natural gum obtained from a tree of the pea family. Used as a stabiliser, emulsifier and thickener. Used to prevent crystallisation of sugar.",
-      "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E414",
-      "Name": "Acacia (Gum Arabic)",
-      "Description": "Similar to E413.",
-      "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E415",
-      "Name": "Xanthan Gum",
-      "Description": "Made from fermentation of carbohydrates by bacteria. Used as an emulsifier, stabiliser and thickener.",
-      "Use": "Added to ice cream and bottled sauces.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E416",
-      "Name": "Karaya gum",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E417",
-      "Name": "Tara gum",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E418",
-      "Name": "Gellan gum",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E420",
-      "Name": "Sorbitol",
-      "Description": "Sugar alcohol produced from glucose. Is less quickly absorbed than sugar so often used as a sweetener. Also used as a humectant and food colour diluent. May have a laxative effect in large doses.",
-      "Use": "Widely used in diabetic confectionery, preserves, biscuits, cakes and soft drink.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E421",
-      "Name": "Mannitol",
-      "Description": "Sugar alcohol derived from mannose, but general manufactured from seaweed. Acts as a sweetener, emulsifier, anti-caking agent and thickener.",
-      "Use": "Used in confectionery and desserts.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E422",
-      "Name": "Glycerol",
-      "Description": "Naturally occurring in many plant cells but generally prepared commercially from fats and oils. Used as a humectant.",
-      "Use": "In confectionery and cake icing.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E422",
-      "Name": "Glycerine",
-      "Description": "Colourless sweet liquid obtained from fatty acids, flavour and bulking agent.",
-      "Use": "Cake icing.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E425",
-      "Name": "Konjac",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E431",
-      "Name": "Polyoxyethylene (40) stearate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E432",
-      "Name": "Polyoxyethylene sorbitan monolaurate; Polysorbate 20",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E433",
-      "Name": "Polyoxyethylene sorbitan mono-oleate; Polysorbate 80",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E434",
-      "Name": "Polyoxyethylene sorbitan monopalmitate; Polysorbate 40",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E435",
-      "Name": "Polyoxyethylene sorbitan monostearate; Polysorbate 60",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E436",
-      "Name": "Polyoxyethylene sorbitan tristearate; Polysorbate 65",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E440 (a)",
-      "Name": "Pectin",
-      "Description": "Occurs naturally in fruits, roots and stems of plants.",
-      "Use": "Used as a stabiliser and jelling agent. Added to preserves, jellies and mint sauce.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E440 (b)",
-      "Name": "Amidated Pectin",
-      "Description": "Chemically treated Pectin used as an emulsifier and jelling agent.",
-      "Use": "Preserves and jellies.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E442",
-      "Name": "Ammonium phosphatides",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E444",
-      "Name": "Sucrose acetate isobutyrate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E445",
-      "Name": "Glycerol esters of wood rosins",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E450 (a-c)",
-      "Name": "Sodium and Potassium Phosphate salts",
-      "Description": "Synthetically prepared emulsifiers, stabilisers and humectants.",
-      "Use": "Added to meat products, bread, sausages and cheese products such as cheese spread.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E451",
-      "Name": "Triphosphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E452",
-      "Name": "Polyphosphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E459",
-      "Name": "Beta-cyclodextrin",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E460",
-      "Name": "Cellulose",
-      "Description": "Fibrous part of plant cell walls used as a bulking agent.",
-      "Use": "Used in high fibre bread and low calorie products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E461",
-      "Name": "Methylcellulose",
-      "Description": "Derived from Cellulose with similar properties.",
-      "Use": "Used in slimming foods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E463",
-      "Name": "Hydroxypropyl cellulose",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": ""
-    },
-    {
-      "Number": "E464",
-      "Name": "Hydroxypropyl methyl cellulose",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E465",
-      "Name": "Ethylmethylcellulose",
-      "Description": "Derived from Cellulose with similar properties.",
-      "Use": "Added to fruitcake and bottled sauces.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E466",
-      "Name": "Carboxymethylcellulose",
-      "Description": "Derived from Cellulose with similar properties.",
-      "Use": "Used in ice cream, cream products and cheesecake mix.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E467",
-      "Name": "Sodium carboxy methyl cellulose",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E468",
-      "Name": "Crosslinked sodium carboxy methyl cellulose",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E469",
-      "Name": "Enzymatically hydrolysed carboxy methyl cellulose",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E470",
-      "Name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
-      "Description": "Synthetically manufactured emulsifiers, stabilisers and anti-caking agents.",
-      "Use": "Crisps and potato snacks.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E471",
-      "Name": "Mono and Diglycerides of Fatty Acid",
-      "Description": "Normal products of fat digestion but are prepared synthetically.",
-      "Use": "Frequently added to powdered milk, packet soup, cake, crisps, and potato snacks, bread and baked products and margarine.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E471 (a-e)",
-      "Name": "Acid reactions with E471: \n (a) Acetic \n (b) Lactic \n (c) Citric \n (d) Tartaric \n (e) Diacetyl Tartaric",
-      "Description": "Functions include emulsifier, stabiliser, thickener, humectant and releasing agent.",
-      "Use": "Found in cheesecake mix, soups, bread and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E472a",
-      "Name": "Acetic acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E472b",
-      "Name": "Lactic acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E472c",
-      "Name": "Citric acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E472d",
-      "Name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E472e",
-      "Name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E472f",
-      "Name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E473",
-      "Name": "Sucrose esters of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E474",
-      "Name": "Sucroglycerides",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E475",
-      "Name": "Polyglycerol Ester of Fatty Acids",
-      "Description": "Synthetic product of E471 used as an emulsifier and stabiliser.",
-      "Use": "Puddings and packet cheesecakes.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E476",
-      "Name": "Polyglycerol polyricinoleate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E477",
-      "Name": "Propane-1,2-diol esters of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E479b",
-      "Name": "Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E481",
-      "Name": "Sodium Stearoyl-2-lactylate",
-      "Description": "Prepared synthetically from Lactic Acid, used as a stabiliser and emulsifier.",
-      "Use": "Potato snacks.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E482",
-      "Name": "Calcium stearoyl-2-lactylate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E483",
-      "Name": "Stearyl tartrate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E491",
-      "Name": "Sorbitan monostearate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E492",
-      "Name": "Sorbitan tristearate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E493",
-      "Name": "Sorbitan monolaurate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E494",
-      "Name": "Sorbitan monooleate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E495",
-      "Name": "Sorbitan monopalmitate",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E500",
-      "Name": "Sodium Bicarbonate/ Hydrogen Carbonate (Bicarb of Soda)",
-      "Description": "Prepared synthetically for use as an acid regulator, firming agent, release agent, raising agent and diluent.",
-      "Use": "Malted drinks, tinned custard, cheesy potato snacks, bread and bread products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E501",
-      "Name": "Potassium carbonates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E503",
-      "Name": "Ammonium carbonates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E504",
-      "Name": "Magnesium Carbonate",
-      "Description": "Naturally occurring mineral used as an anti-caking agent.",
-      "Use": "Table salt and icing sugar.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E507",
-      "Name": "Hydrochloric acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E508",
-      "Name": "Potassium Chloride",
-      "Description": "Natural occurring chemical often associated with rock salt. Used as an emulsifier, stabiliser, salt substitute and dietary supplement.",
-      "Use": "Found in low sodium or salt products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E509",
-      "Name": "Calcium Chloride",
-      "Description": "Product of natural salt brine, but more often prepared chemically. Used as a firming agent and to prevent texture deterioration.",
-      "Use": "Red kidney beans.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E511",
-      "Name": "Magnesium chloride",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E512",
-      "Name": "Stannous chloride",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E513",
-      "Name": "Sulphuric acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E514",
-      "Name": "Sodium sulphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E515",
-      "Name": "Potassium sulphates",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E516",
-      "Name": "Calcium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E517",
-      "Name": "Ammonium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E520",
-      "Name": "Aluminium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E521",
-      "Name": "Aluminium sodium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E522",
-      "Name": "Aluminium potassium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E523",
-      "Name": "Aluminium ammonium sulphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E524",
-      "Name": "Sodium hydroxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E525",
-      "Name": "Potassium hydroxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E526",
-      "Name": "Calcium hydroxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E527",
-      "Name": "Ammonium hydroxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E528",
-      "Name": "Magnesium hydroxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E529",
-      "Name": "Calcium oxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E530",
-      "Name": "Magnesium oxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E535",
-      "Name": "Sodium ferrocyanide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E536",
-      "Name": "Potassium ferrocyanide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E538",
-      "Name": "Calcium ferrocyanide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E541",
-      "Name": "Sodium Aluminium Phosphate",
-      "Description": "Synthetically prepared raising agent.",
-      "Use": "Self-raising flower.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E551",
-      "Name": "Silicon Dioxide (Silica)",
-      "Description": "Derived from sand. Used as an anti-caking agent.",
-      "Use": "Potato snacks",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E552",
-      "Name": "Calcium Silicate",
-      "Description": "Salt of Silicon Dioxide with similar functions. Also used as a glazing agent, acid regulator, releasing agent and as a coating agent.",
-      "Use": "Found in chewing gum, meat pies, salt and confectionery.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E553",
-      "Name": "Sodium Silico Aluminate/ magnesium silicate",
-      "Description": "Salt of Silicon Dioxide with similar functions.",
-      "Use": "Often found in packet noodles.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E554",
-      "Name": "Sodium aluminium silicate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E555",
-      "Name": "Potassium aluminium silicate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E556",
-      "Name": "Aluminium calcium silicate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E558",
-      "Name": "Bentonite",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E559",
-      "Name": "Aluminium silicate; Kaolin",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E570",
-      "Name": "Fatty acids",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E574",
-      "Name": "Gluconic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E575",
-      "Name": "Glucono delta-lactone",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E576",
-      "Name": "Sodium gluconate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E577",
-      "Name": "Potassium gluconate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E578",
-      "Name": "Calcium gluconate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E579",
-      "Name": "Ferrous gluconate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E585",
-      "Name": "Ferrous lactate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E620",
-      "Name": "L-Glutamic Acid",
-      "Description": "Naturally occurring amino acid obtained from protein but generally manufactured by bacterial fermentation of carbohydrates. Used as a flavour enhancer and salt substitute.",
-      "Use": "Used as a nutrient to increase protein values.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E621",
-      "Name": "Monosodium Glutamate (MSG)",
-      "Description": "Present naturally in seaweed but generally prepared chemically from sugar beet. Flavour enhancer of protein rich foods.",
-      "Use": "Meat, Chinese foods, packet convenience meals and snacks (eg. soup), dries products, crisps and potato snacks.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E622",
-      "Name": "Monopotassium Glutamate",
-      "Description": "Similar to Monosodium Glutamate.",
-      "Use": "Similar to 621.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E623",
-      "Name": "Calcium Glutamate",
-      "Description": "Similar to Monosodium Glutamate.",
-      "Use": "Similar to 621.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E624",
-      "Name": "Monoammonium glutamate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E625",
-      "Name": "Magnesium diglutamate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E626",
-      "Name": "Guanylic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E627",
-      "Name": "Sodium Guanylate",
-      "Description": "Occurs naturally in sardines and yeast extract but generally manufactured synthetically. Used as a flavour enhancer.",
-      "Use": "Often added to crisps and other potato snacks, gravy granules and pre-cooked dried rice.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E628",
-      "Name": "Dipotassium guanylate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E629",
-      "Name": "Calcium guanylate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E630",
-      "Name": "lnosinic acid",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E631",
-      "Name": "Sodium Inosinate",
-      "Description": "Made from sardines and meat extract.",
-      "Use": "Similar to 627.",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E632",
-      "Name": "Dipotassium inosinate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E633",
-      "Name": "Calcium inosinate",
-      "Description": "",
-      "Use": ""
-    },
-    {
-      "Number": "E634",
-      "Name": "Calcium 5'-ribonucleotides",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E635",
-      "Name": "Sodium-5-Ribonucleotide",
-      "Description": "Mixture of 627 and 631.",
-      "Use": "Added to crisps and potato snacks and packet soups.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E640",
-      "Name": "Glycine and its sodium salt",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E650",
-      "Name": "Zinc acetate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E900",
-      "Name": "Dimethylpolysiloxane",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E901",
-      "Name": "Beeswax, white and yellow",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E902",
-      "Name": "Candelilla wax",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E903",
-      "Name": "Carnauba wax",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E904",
-      "Name": "Shellac",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E905",
-      "Name": "Microcrystalline wax",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E912",
-      "Name": "Montan acid esters",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E914",
-      "Name": "Oxidised Polyethylene wax",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E920",
-      "Name": "L-Cysteine",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E927",
-      "Name": "Azodicarbonamide",
-      "Description": "Chemically manufactured flour improver.",
-      "Use": "Common ingredient in flour, bread and baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E927b",
-      "Name": "Carbamide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E938",
-      "Name": "Argon",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E939",
-      "Name": "Helium",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E941",
-      "Name": "Nitrogen",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E942",
-      "Name": "Nitrous oxide",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E943a",
-      "Name": "Butane",
-      "Description": "",
-      "Use": ""
-    },
-    {
-      "Number": "E943b",
-      "Name": "Iso-butane",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E944",
-      "Name": "Propane",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E948",
-      "Name": "Oxygen",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E949",
-      "Name": "Hydrogen",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E950",
-      "Name": "Acesulfame K",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E951",
-      "Name": "Aspartame",
-      "Description": "New artificial sweetener of protein origin. Contains phenylalanine.",
-      "Use": "Artificial sweeteners, confectionery, ice cream, low calorie desserts and soft drinks.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E951",
-      "Name": "Aspartame",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E952",
-      "Name": "Cyclamic acid and its Na and Ca salts",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E953",
-      "Name": "lsomalt",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E954",
-      "Name": "Saccharin",
-      "Description": "Calorie-free artificial sweetener.",
-      "Use": "Low calorie products, soft drinks and confectionery.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E957",
-      "Name": "Thaumatin",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E959",
-      "Name": "Neohesperidine DC",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E965",
-      "Name": "Glucose (hydrogenated) or Maltitol",
-      "Description": "Natural occurring sugar in grapes, corn, etc.",
-      "Use": "Confectionery, cakes, biscuits, puddings, desserts, soft drinks, convenience foods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E966",
-      "Name": "Lactitol",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E967",
-      "Name": "Xylitol",
-      "Description": "Sweeteners",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E999",
-      "Name": "Quillaia extract",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1103",
-      "Name": "Invertase",
-      "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1105",
-      "Name": "Lysozyme",
-      "Description": "Preservative",
-      "Use": "",
-      "Animal-Based": "true"
-    },
-    {
-      "Number": "E1200",
-      "Name": "Polydextrose",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1200",
-      "Name": "Polydextrose",
-      "Description": "Natural occurring sugar in grapes, corn, etc.",
-      "Use": "Confectionery, cakes, biscuits, puddings, desserts, soft drinks, convenience foods.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1201",
-      "Name": "Polyvinylpyrrolidone",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1202",
-      "Name": "Polyvinylpolypyrrolidone",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1400-1414",
-      "Name": "Starches",
-      "Description": "Generally of maize, corn, potato, wheat or tapioca in origin. Used to modify texture and stability.",
-      "Use": "Sauces, chutneys, confectionery, desserts, meat, fish, dairy, baked products.",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1404",
-      "Name": "Oxidised starch",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1410",
-      "Name": "Monostarch phosphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1412",
-      "Name": "Distarch phosphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1413",
-      "Name": "Phosphated distarch phosphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1414",
-      "Name": "Acetylated starch",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1420",
-      "Name": "Acetylated Starch",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1422",
-      "Name": "Acetylated distarch adipate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1440",
-      "Name": "Hydroxyl propyl starch",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1442",
-      "Name": "Hydroxy propyl distarch phosphate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1450",
-      "Name": "Starch sodium octenyl succinate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1451",
-      "Name": "Acetylated oxidised starch",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1505",
-      "Name": "Triethyl citrate",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1518",
-      "Name": "Glyceryl triacetate; triacetin",
-      "Description": "",
-      "Use": "",
-      "Animal-Based": "false"
-    },
-    {
-      "Number": "E1520",
-      "Name": "Propylene Glycol",
-      "Description": "Synthetic carrier for extracts, flavours and spices. Functions as a stabiliser and humectant.",
-      "Use": "Miscellaneous foods.",
-      "Animal-Based": "false"
-    }
-   ]
+  {
+    "Number": "E100",
+    "Name": "Curcumin",
+    "Description": "Naturally occurring orange/yellow colour, extracted from the spice turmeric",
+    "Use": "Used in pastries, confectionery, sauces and soups",
+    "Animal": "false"
+  },
+  {
+    "Number": "E101",
+    "Name": "Riboflavin or lactoflavin",
+    "Description": "Naturally occurring B group vitamin usually obtained from yeast or produced synthetically.",
+    "Use": "Enrichment and fortification of food. Added to processed cheese as yellow/orange colour",
+    "Animal": "false"
+  },
+  {
+    "Number": "E102",
+    "Name": "Tartrazine",
+    "Description": "Widely used yellow/orange colour",
+    "Use": "Found in soft drinks, cakes, biscuits, puddings, meat products, sauces, tinned and packet convenience foods and confectionery",
+    "Animal": "false"
+  },
+  {
+    "Number": "E104",
+    "Name": "Quinoline Yellow",
+    "Description": "A synthetic coal tar dye, greenish yellow in colour",
+    "Use": "Used with other yellow colours, especially in smoked fish",
+    "Animal": "false"
+  },
+  {
+    "Number": "E110",
+    "Name": "Sunset Yellow",
+    "Description": "A synthetic coal tar dye, yellow in colour, used with E102",
+    "Use": "Found in soft drinks, cakes, biscuits, puddings, meat products, sauces, tinned and packet convenience foods and confectionery",
+    "Animal": "false"
+  },
+  {
+    "Number": "E120",
+    "Name": "Cochineal",
+    "Description": "Natural red colour obtained from egg yolk and dried insects. Can be manufactured",
+    "Use": "Red colour in foods",
+    "Animal": "true"
+  },
+  {
+    "Number": "E122",
+    "Name": "Carmoisine",
+    "Description": "A synthetic coal tar dye, red/purple in colour",
+    "Use": "Often added to raspberry and chocolate flavoured deserts, marzipan, jam, cherryade, bottled sauce and breaded products",
+    "Animal": "false"
+  },
+  {
+    "Number": "E123",
+    "Name": "Amaranth",
+    "Description": "A synthetic coal tar dye, red in colour",
+    "Use": "Sometimes used in gravy mixes, meat patties, and blackcurrant drinks",
+    "Animal": "false"
+  },
+  {
+    "Number": "E124",
+    "Name": "Ponceau 4R",
+    "Description": "A synthetic coal tar dye, red in colour",
+    "Use": "Often used to restore red colour to tinned strawberries. Also added to strawberry jam, jelly and ice cream, tomato soup, savoury rice, cheesecake mix and some meat products",
+    "Animal": "false"
+  },
+  {
+    "Number": "E127",
+    "Name": "Erythrosine",
+    "Description": "A synthetic coal tar dye, red in colour, rich in mineral iodine.",
+    "Use": "Regular component of glace cherries, peach melba yogurt, vacuum-packed ham and pork, tinned strawberries and certain flavours of chips and potato based snacks.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E128",
+    "Name": "Red 2G",
+    "Description": "A synthetic coal tar dye, red in colour.",
+    "Use": "Pork pies, sausages and other meat products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E129",
+    "Name": "Allura Red AC",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E131",
+    "Name": "Patent Blue V",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E132",
+    "Name": "Indigo Carmine",
+    "Description": "A synthetic coal tar dye, blue in colour.",
+    "Use": "Added to gravy mix and certain meat products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E133",
+    "Name": "Brilliant Blue",
+    "Description": "A synthetic coal tar dye, blue in colour. Often mixed with E102 to make green.",
+    "Use": "Bacon flavour snacks.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E140",
+    "Name": "Chlorophyll",
+    "Description": "Naturally occurring green pigment found in leaves and stems of plants. Also manufactured.",
+    "Use": "Added to green vegetables to enhance their colour.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E141",
+    "Name": "Copper complex of Chlorophyll",
+    "Description": "A more stable colour obtained by a reaction between copper and manufactured chlorophyll.",
+    "Use": "Used to heighten the green colour of products such as cucumber relish.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E142",
+    "Name": "Green S",
+    "Description": "A synthetic coal tar dye, green in colour.",
+    "Use": "Used to restore the expected green colour to tinned peas. Also added to asparagus soup, lemon or lime drinks and jellies and mint sauce.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E150",
+    "Name": "Caramel",
+    "Description": "Commonly used brown colour and flavouring agent made from the caramelisation or burning of sugar by heat or chemicals.",
+    "Use": "Used in soft drinks, gravy mix, brown bread, cakes, biscuits, malt vinegar, marmalade and beef products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E150b",
+    "Name": "Caustic sulphite caramel",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E150c",
+    "Name": "Ammonia caramel",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E150d",
+    "Name": "Sulphite ammonia caramel",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E151",
+    "Name": "Black PN",
+    "Description": "A synthetic coal tar dye, black in colour.",
+    "Use": "Used to darken fruits sauces.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E153",
+    "Name": "Carbon Black/Vegetable Carbon",
+    "Description": "Natural black colour obtained from burnt plant material, now often manufactured.",
+    "Use": "Added to concentrated fruit juices, preserves and jellies.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E154",
+    "Name": "Brown FK",
+    "Description": "A synthetic coal tar dye, brown in colour.",
+    "Use": "Added to smoked fish.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E155",
+    "Name": "Chocolate Brown HT",
+    "Description": "A synthetic coal tar dye, brown in colour.",
+    "Use": "Various foods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160 a - f",
+    "Name": "Carotenoids",
+    "Description": "Plant pigments derived from carrots, tomatoes, apricots, oranges, rosehip and green leafy vegetables. Now mostly manufactured.",
+    "Use": "Provide a range of colours from yellow to red.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160a",
+    "Name": "Alpha-, Beta, Gamma-carotenes",
+    "Description": "Beta-carotene is a well-known substance that is converted by the body to Vitamin A. Orange in colour.",
+    "Use": "Added to biscuits, cakes, margarine, creamed rice, cheese products and certain soups.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160b",
+    "Name": "Annatto",
+    "Description": "Orange/peach pigment naturally present in butter and cheese.",
+    "Use": "Used to give creamy colour to creamed rice, coffee creamer, pastry, cheese and cheese products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160c",
+    "Name": "Paprika extract; Capsanthian; Capsorubin",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160d",
+    "Name": "Lycopene",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160e",
+    "Name": "Beta-apo-8'-carotenal (C30)",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E160f",
+    "Name": "Ethyl ester of beta-apo-8'-carotenoic acid (C30)",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E161 a: g",
+    "Name": "Xanthrophylls",
+    "Description": "Carotenoid pigments providing natural yellow to red colours.",
+    "Use": "No typical products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E161b",
+    "Name": "Lutein",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E161g",
+    "Name": "Canthaxanthin",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E162",
+    "Name": "Betanin (Beetroot Red)",
+    "Description": "Naturally occurring red/purple colour in beetroots.",
+    "Use": "May be added to oxtail soup.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E163",
+    "Name": "Anthocyanins",
+    "Description": "Plant pigments with colours ranging from red to blue.",
+    "Use": "Naturally present in red cabbage and grapes.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E170",
+    "Name": "Calcium Carbonate (Chalk)",
+    "Description": "Naturally occurring mineral. It has various functions including acid regulator, firming agent, releasing agent and nutrient.",
+    "Use": "It is added to white flour as a calcium supplement to replace the loss due to refining. Frequently an ingredient in bread and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E170",
+    "Name": "Calcium carbonates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E171",
+    "Name": "Titanium dioxide",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E172",
+    "Name": "Iron oxide",
+    "Description": "Naturally occurring mineral. Added to fortify food.",
+    "Use": "Added to flour and breakfast cereals.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E173",
+    "Name": "Aluminium",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E174",
+    "Name": "Silver",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E175",
+    "Name": "Gold",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E180",
+    "Name": "Litholrubine BK",
+    "Description": "Colouring agent",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E200",
+    "Name": "Sorbic Acid",
+    "Description": "Naturally occurring in some fruit but generally manufactured synthetically for use as a food preservative.",
+    "Use": "Commonly added to soft drinks, cheese spread, frozen pizza and cakes.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E201",
+    "Name": "Sodium Sorbate",
+    "Description": "Salt of Sorbic Acid.",
+    "Use": "As for Sorbic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E202",
+    "Name": "Potassium Sorbate",
+    "Description": "Salt of Sorbic Acid.",
+    "Use": "Used to preserve glace cherries.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E203",
+    "Name": "Calcium Sorbate",
+    "Description": "Salt of Sorbic Acid.",
+    "Use": "As for Sorbic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E210",
+    "Name": "Benzoic Acid",
+    "Description": "Occurs naturally in cherry bark, raspberries, tea, anise and cassia bark, but largely prepared synthetically for commercial use.",
+    "Use": "Acts as a preservative and anti-oxidant most frequently in fruit products, soft drinks, pickled produce and salad dressings.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E211",
+    "Name": "Sodium Benzoate",
+    "Description": "Salt of Benzoic Acid.",
+    "Use": "In bottled sauces.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E212",
+    "Name": "Potassium Benzoate",
+    "Description": "Salt of Benzoic Acid.",
+    "Use": "As per Benzoic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E213",
+    "Name": "Calcium Benzoate",
+    "Description": "Salt of Benzoic Acid.",
+    "Use": "As per Benzoic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E214",
+    "Name": "Ethyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E214-219",
+    "Name": "Hydroxy Benzoate salts",
+    "Description": "Salts of Benzoic Acid.",
+    "Use": "As per Benzoic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E215",
+    "Name": "Sodium ethyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E216",
+    "Name": "Propyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E217",
+    "Name": "Sodium propyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E218",
+    "Name": "Methyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E219",
+    "Name": "Sodium methyl p-hydroxybenzoate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E220",
+    "Name": "Sulfur Dioxide",
+    "Description": "Gas prepared chemically for use as a food preservative, flour improver, bleaching agent and vitamin C stabiliser.",
+    "Use": "Found in carbonated drinks, marmalade, glace cherries, mixed peel, cakes, fruit based products and meat products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E221",
+    "Name": "Sodium sulphite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E222",
+    "Name": "Sodium Hydrogen Sulphite/Bisulphite",
+    "Description": "Synthetic preservative and bleaching agent.",
+    "Use": "Often added to wine and beer.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E223",
+    "Name": "Sodium Metabisulphite",
+    "Description": "Synthetic preservative.",
+    "Use": "Added to sausages and some bottled sauces.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E224",
+    "Name": "Potassium metabisulphite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E226",
+    "Name": "Calcium sulphite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E227",
+    "Name": "Calcium hydrogen sulphite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E228",
+    "Name": "Potassium hydrogen sulphite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E230",
+    "Name": "Biphenyl; diphenyl",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E231",
+    "Name": "Orthophenyl phenol",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E232",
+    "Name": "Sodium orthophenyl phenol",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E234",
+    "Name": "Nisin",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E235",
+    "Name": "Natamycin",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E239",
+    "Name": "Hexamethylene tetramine",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E242",
+    "Name": "Dimethyl dicarbonate",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E249",
+    "Name": "Potassium Nitrite",
+    "Description": "Naturally occurring mineral used as a preservative and as a colour fixative.",
+    "Use": "Used in cooked meats, sausages and in cured meats.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E250",
+    "Name": "Sodium Nitrite",
+    "Description": "Derived from sodium nitrate by chemical or bacterial action. Acts as a preservative and colour fixative.",
+    "Use": "Added to cooked and cured meats, bacon and pork sausages.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E250",
+    "Name": "Sodium nitrite",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E251",
+    "Name": "Sodium Nitrate",
+    "Description": "Naturally occurring mineral usually manufactured synthetically for use as a food preservative and colour fixative.",
+    "Use": "In cooked meats, bacon, ham and cheese.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E252",
+    "Name": "Potassium Nitrate",
+    "Description": "Naturally occurring but more usually produced artificially from waste animal and vegetable material. This additive is one of the oldest and most effective preservatives for meat. Also acts as a curing agent.",
+    "Use": "Found in cured and cooked meats, and sausages.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E260",
+    "Name": "Acetic Acid",
+    "Description": "Natural component of vinegar but generally manufactured from wood. Used as a preservative, acid or colour diluent.",
+    "Use": "Found in pickles, bottled sauces and chutneys.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E260",
+    "Name": "Acetic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E261",
+    "Name": "Potassium acetate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E262",
+    "Name": "Sodium acetate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E263",
+    "Name": "Calcium acetate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E270",
+    "Name": "Lactic Acid",
+    "Description": "Produced by the fermentation of lactose, which is the sugar present in milk. It occurs naturally in soured milk and yogurt and acts as a preservative, acid, flavour and assists the action of anti-oxidants.",
+    "Use": "Widely used in salad dressings, cakes, biscuits, confectionery and certain types of prepared meat dishes.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E270",
+    "Name": "Lactic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E280",
+    "Name": "Propionic Acid",
+    "Description": "Fatty acid produced by animals in the process of digestion, but generally manufactures synthetically. Functions as a preservative.",
+    "Use": "Added to baked goods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E281",
+    "Name": "Sodium Propionate",
+    "Description": "Salt of propionic acid.",
+    "Use": "Added to baked goods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E282",
+    "Name": "Calcium Propionate",
+    "Description": "Salt of propionic acid. Found naturally in Swiss cheese.",
+    "Use": "Added to baked goods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E283",
+    "Name": "Potassium Propionate",
+    "Description": "Salt of propionic acid.",
+    "Use": "Added to baked goods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E284",
+    "Name": "Boric acid",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E285",
+    "Name": "Sodium tetraborate; borax",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E290",
+    "Name": "Carbon Dioxide",
+    "Description": "Gas present in air, but produced synthetically for food. Adds the fizz to fizzy drinks (carbonation), but is also used as a coolant, freezant, propellant, preservative and packaging gas.",
+    "Use": "Carbonated drinks.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E290",
+    "Name": "Carbon dioxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E296",
+    "Name": "Malic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E297",
+    "Name": "Fumaric Acid",
+    "Description": "Prepared synthetically as an acid flavour.",
+    "Use": "Baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E300",
+    "Name": "L-Ascorbic Acid (Vitamin C)",
+    "Description": "Occurs naturally in fruit and vegetables but is synthesised biologically. It acts as a preservative, anti-oxidant, meat colour fixative, and flour improver. Also a vitamin.",
+    "Use": "Found in fruit juices, bread, baked products, powdered mashed potatoes, etc.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E301",
+    "Name": "Sodium L-Ascorbate",
+    "Description": "Salt of ascorbic acid.",
+    "Use": "Added to cured meats.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E302",
+    "Name": "Calcium L-Ascorbate",
+    "Description": "Salt of ascorbic acid.",
+    "Use": "Similar function to Ascorbic Acid.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E304",
+    "Name": "Ascorbyl Palmitate",
+    "Description": "Salt of ascorbic acid.",
+    "Use": "Used in sausage and cured meats.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E306",
+    "Name": "Tocopherol (Vitamin E)",
+    "Description": "Obtained from soya bean oil, wheatgerm, rice germ, cottonseed, maize and green leaves. Used as an antioxidant and nutrient.",
+    "Use": "Added to fats and oils.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E307",
+    "Name": "Synthetic Alpha Tocopherol",
+    "Description": "Synthetic products of Tocopherol with similar functions.",
+    "Use": "Added to fats, oils and sausages.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E308",
+    "Name": "Synthetic Gamma Tocopherol",
+    "Description": "Synthetic products of Tocopherol with similar functions.",
+    "Use": "Added to fats, oils and sausages.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E309",
+    "Name": "Synthetic Delta Tocopherol",
+    "Description": "Synthetic products of Tocopherol with similar functions.",
+    "Use": "Added to fats, oils and sausages.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E310",
+    "Name": "Propyl Gallate",
+    "Description": "Synthetically prepared antioxidant.",
+    "Use": "Added to fats and oils. Will be found in fried foods. May give rise to a bitter taste.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E311",
+    "Name": "Octyl Gallate",
+    "Description": "Synthetic product similar to Propyl Gallate with similar function.",
+    "Use": "Added to fats and oils.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E312",
+    "Name": "Dodecyl Gallate",
+    "Description": "Synthetic product similar to Propyl Gallate with similar function.",
+    "Use": "Added to fats and oils.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E315",
+    "Name": "Erythorbic acid",
+    "Description": "Antioxidants",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E316",
+    "Name": "Sodium erythorbate",
+    "Description": "Antioxidants",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E320",
+    "Name": "Butylated Hydroxyanisole (BHA)",
+    "Description": "Antioxidant manufactured synthetically for use alone or with E280, E310, or E330",
+    "Use": "Often found in chips and other potato snacks, biscuits, pastry, bottled sauces and fried foods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E321",
+    "Name": "Butylated Hydroxytoluene (BHT)",
+    "Description": "Synthetically prepared antioxidant.",
+    "Use": "Similar to Butylated Hydroxyanisole.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E322",
+    "Name": "Lecithins",
+    "Description": "Type of fat or lipid compound found naturally in all living organisms, protective against cholesterol deposition. Egg yolk is a rich source of lecithins, but commercially, most is obtained from soya beans. Used as an antioxidant, and emulsifier.",
+    "Use": "Found in chocolate and chocolate products, powdered milk, margarine and potato snacks.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E325",
+    "Name": "Sodium lactate",
+    "Description": "Salt of lactic acid (E270) used as a humectant",
+    "Use": "Added to confectionery."
+  },
+  {
+    "Number": "E326",
+    "Name": "Potassium Lactate",
+    "Description": "Salt of lactic acid (E270) used as an acid regulator.",
+    "Use": "Acid regulator.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E327",
+    "Name": "Calcium Lactate",
+    "Description": "Salt of lactic acid (E270) used as an acid regulator and firming agent",
+    "Use": "Frequently incorporated into baking powder."
+  },
+  {
+    "Number": "E330",
+    "Name": "Citric Acid",
+    "Description": "Occurs naturally in citrus fruit but may also be prepared from the fermentation of molasses. Used as an antioxidant, preservative, acid regulator and flour improver.",
+    "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E331",
+    "Name": "Sodium Citrate",
+    "Description": "Salt of Citric Acid with similar functions.",
+    "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E332",
+    "Name": "Potassium Citrate",
+    "Description": "Salt of Citric Acid with similar functions.",
+    "Use": "Typically added to pickles, bottled sauces, dairy and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E333",
+    "Name": "Calcium Citrate",
+    "Description": "Salt of Citric Acid, which acts as an acid regulator, emulsifier and firming agent.",
+    "Use": "Found in carbonated drinks, wine, confectionery and cheese products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E334",
+    "Name": "Tartaric Acid",
+    "Description": "Natural product of wine making used as an acid regulator.",
+    "Use": "Added to baking powder.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E335",
+    "Name": "Sodium L-Tartrate",
+    "Description": "Salt of Tartaric Acid with similar function.",
+    "Use": "Added to baking powder.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E336",
+    "Name": "Potassium L-Tartrate (Cream of Tartar)",
+    "Description": "Salt of Tartaric Acid with similar function.",
+    "Use": "Added to baking powder.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E337",
+    "Name": "Sodium potassium tartrate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E338",
+    "Name": "Phosphoric acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E339",
+    "Name": "Sodium phosphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E340",
+    "Name": "Potassium phosphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E341",
+    "Name": "Calcium Orthophosphates (Pyrophosphates)",
+    "Description": "Synthetic products of a naturally occurring mineral. Used as an anti-caking agent, acid regulator, emulsifier, flour improver, nutrient and an aid to antioxidants.",
+    "Use": "Found in potato snacks, pastry mix and baking powder.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E341",
+    "Name": "Calcium Phosphate",
+    "Description": "Rising agent.",
+    "Use": "Baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E343",
+    "Name": "Magnesium phosphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E350",
+    "Name": "Sodium malates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E351",
+    "Name": "Potassium malate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E352",
+    "Name": "Calcium malates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E353",
+    "Name": "Metatartaric acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E354",
+    "Name": "Calcium tartrate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E355",
+    "Name": "Adipic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E356",
+    "Name": "Sodium adipate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E357",
+    "Name": "Potassium adipate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E363",
+    "Name": "Succinic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E380",
+    "Name": "Triammonium citrate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E385",
+    "Name": "Calcium disodium ethylene diamine tetra-acetate; calcium disodium EDTA",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E400",
+    "Name": "Alginic Acid",
+    "Description": "Emulsifier, stabiliser and gelling agent or thickener extracted from brown seaweed.",
+    "Use": "Frequently added to ice cream, instant desserts and puddings.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E401",
+    "Name": "Sodium Alginate",
+    "Description": "Salt of Alginic Acid with similar functions.",
+    "Use": "As for E400.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E402",
+    "Name": "Potassium alginate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E403",
+    "Name": "Ammonium alginate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E404",
+    "Name": "Calcium alginate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E405",
+    "Name": "Propane-1,2-diol alginate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": ""
+  },
+  {
+    "Number": "E406",
+    "Name": "Agar",
+    "Description": "Naturally occurring gum extracted from seaweeds. It is not digested so acts a source of dietary fibre. Also acts as a stabiliser and gelling agent.",
+    "Use": "Used in tinned ham, meat glazes and in ice cream.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E407",
+    "Name": "Carrageenan (Irish Moss)",
+    "Description": "Gum naturally present in red seaweed. Used as an emulsifier, stabiliser, and gelling agent.",
+    "Use": "Found in ice cream.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E407a",
+    "Name": "Processed eucheuma seaweed",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E410",
+    "Name": "Locust Bean Gum (Carob Bean Seed Gum)",
+    "Description": "Natural extract from the Carob tree seed. Similar to E407.",
+    "Use": "Added to ice cream, and soups. Carob is a non-caffeine containing substitute for cocoa and chocolate. Used in beverages, confectionery and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E412",
+    "Name": "Guar Gum (Cluster Bean Gum)",
+    "Description": "Naturally occurring seed gum from a tree of the pea family. Used as a thickener and stabiliser.",
+    "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E413",
+    "Name": "Tragacanth",
+    "Description": "Natural gum obtained from a tree of the pea family. Used as a stabiliser, emulsifier and thickener. Used to prevent crystallisation of sugar.",
+    "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E414",
+    "Name": "Acacia (Gum Arabic)",
+    "Description": "Similar to E413.",
+    "Use": "Added to bottled sauces, soup, ice cream and frozen desserts.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E415",
+    "Name": "Xanthan Gum",
+    "Description": "Made from fermentation of carbohydrates by bacteria. Used as an emulsifier, stabiliser and thickener.",
+    "Use": "Added to ice cream and bottled sauces.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E416",
+    "Name": "Karaya gum",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E417",
+    "Name": "Tara gum",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E418",
+    "Name": "Gellan gum",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E420",
+    "Name": "Sorbitol",
+    "Description": "Sugar alcohol produced from glucose. Is less quickly absorbed than sugar so often used as a sweetener. Also used as a humectant and food colour diluent. May have a laxative effect in large doses.",
+    "Use": "Widely used in diabetic confectionery, preserves, biscuits, cakes and soft drink.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E421",
+    "Name": "Mannitol",
+    "Description": "Sugar alcohol derived from mannose, but general manufactured from seaweed. Acts as a sweetener, emulsifier, anti-caking agent and thickener.",
+    "Use": "Used in confectionery and desserts.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E422",
+    "Name": "Glycerol",
+    "Description": "Naturally occurring in many plant cells but generally prepared commercially from fats and oils. Used as a humectant.",
+    "Use": "In confectionery and cake icing.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E422",
+    "Name": "Glycerine",
+    "Description": "Colourless sweet liquid obtained from fatty acids, flavour and bulking agent.",
+    "Use": "Cake icing.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E425",
+    "Name": "Konjac",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E431",
+    "Name": "Polyoxyethylene (40) stearate",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E432",
+    "Name": "Polyoxyethylene sorbitan monolaurate; Polysorbate 20",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E433",
+    "Name": "Polyoxyethylene sorbitan mono-oleate; Polysorbate 80",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E434",
+    "Name": "Polyoxyethylene sorbitan monopalmitate; Polysorbate 40",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E435",
+    "Name": "Polyoxyethylene sorbitan monostearate; Polysorbate 60",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E436",
+    "Name": "Polyoxyethylene sorbitan tristearate; Polysorbate 65",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E440 (a)",
+    "Name": "Pectin",
+    "Description": "Occurs naturally in fruits, roots and stems of plants.",
+    "Use": "Used as a stabiliser and jelling agent. Added to preserves, jellies and mint sauce.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E440 (b)",
+    "Name": "Amidated Pectin",
+    "Description": "Chemically treated Pectin used as an emulsifier and jelling agent.",
+    "Use": "Preserves and jellies.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E442",
+    "Name": "Ammonium phosphatides",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E444",
+    "Name": "Sucrose acetate isobutyrate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E445",
+    "Name": "Glycerol esters of wood rosins",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E450 (a-c)",
+    "Name": "Sodium and Potassium Phosphate salts",
+    "Description": "Synthetically prepared emulsifiers, stabilisers and humectants.",
+    "Use": "Added to meat products, bread, sausages and cheese products such as cheese spread.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E451",
+    "Name": "Triphosphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E452",
+    "Name": "Polyphosphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E459",
+    "Name": "Beta-cyclodextrin",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E460",
+    "Name": "Cellulose",
+    "Description": "Fibrous part of plant cell walls used as a bulking agent.",
+    "Use": "Used in high fibre bread and low calorie products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E461",
+    "Name": "Methylcellulose",
+    "Description": "Derived from Cellulose with similar properties.",
+    "Use": "Used in slimming foods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E463",
+    "Name": "Hydroxypropyl cellulose",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": ""
+  },
+  {
+    "Number": "E464",
+    "Name": "Hydroxypropyl methyl cellulose",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E465",
+    "Name": "Ethylmethylcellulose",
+    "Description": "Derived from Cellulose with similar properties.",
+    "Use": "Added to fruitcake and bottled sauces.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E466",
+    "Name": "Carboxymethylcellulose",
+    "Description": "Derived from Cellulose with similar properties.",
+    "Use": "Used in ice cream, cream products and cheesecake mix.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E467",
+    "Name": "Sodium carboxy methyl cellulose",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E468",
+    "Name": "Crosslinked sodium carboxy methyl cellulose",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E469",
+    "Name": "Enzymatically hydrolysed carboxy methyl cellulose",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E470",
+    "Name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+    "Description": "Synthetically manufactured emulsifiers, stabilisers and anti-caking agents.",
+    "Use": "Crisps and potato snacks.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E471",
+    "Name": "Mono and Diglycerides of Fatty Acid",
+    "Description": "Normal products of fat digestion but are prepared synthetically.",
+    "Use": "Frequently added to powdered milk, packet soup, cake, crisps, and potato snacks, bread and baked products and margarine.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E471 (a-e)",
+    "Name": "Acid reactions with E471: \n (a) Acetic \n (b) Lactic \n (c) Citric \n (d) Tartaric \n (e) Diacetyl Tartaric",
+    "Description": "Functions include emulsifier, stabiliser, thickener, humectant and releasing agent.",
+    "Use": "Found in cheesecake mix, soups, bread and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E472a",
+    "Name": "Acetic acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E472b",
+    "Name": "Lactic acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E472c",
+    "Name": "Citric acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E472d",
+    "Name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E472e",
+    "Name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E472f",
+    "Name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E473",
+    "Name": "Sucrose esters of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E474",
+    "Name": "Sucroglycerides",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E475",
+    "Name": "Polyglycerol Ester of Fatty Acids",
+    "Description": "Synthetic product of E471 used as an emulsifier and stabiliser.",
+    "Use": "Puddings and packet cheesecakes.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E476",
+    "Name": "Polyglycerol polyricinoleate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E477",
+    "Name": "Propane-1,2-diol esters of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E479b",
+    "Name": "Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E481",
+    "Name": "Sodium Stearoyl-2-lactylate",
+    "Description": "Prepared synthetically from Lactic Acid, used as a stabiliser and emulsifier.",
+    "Use": "Potato snacks.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E482",
+    "Name": "Calcium stearoyl-2-lactylate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E483",
+    "Name": "Stearyl tartrate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E491",
+    "Name": "Sorbitan monostearate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E492",
+    "Name": "Sorbitan tristearate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E493",
+    "Name": "Sorbitan monolaurate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E494",
+    "Name": "Sorbitan monooleate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E495",
+    "Name": "Sorbitan monopalmitate",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E500",
+    "Name": "Sodium Bicarbonate/ Hydrogen Carbonate (Bicarb of Soda)",
+    "Description": "Prepared synthetically for use as an acid regulator, firming agent, release agent, raising agent and diluent.",
+    "Use": "Malted drinks, tinned custard, cheesy potato snacks, bread and bread products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E501",
+    "Name": "Potassium carbonates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E503",
+    "Name": "Ammonium carbonates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E504",
+    "Name": "Magnesium Carbonate",
+    "Description": "Naturally occurring mineral used as an anti-caking agent.",
+    "Use": "Table salt and icing sugar.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E507",
+    "Name": "Hydrochloric acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E508",
+    "Name": "Potassium Chloride",
+    "Description": "Natural occurring chemical often associated with rock salt. Used as an emulsifier, stabiliser, salt substitute and dietary supplement.",
+    "Use": "Found in low sodium or salt products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E509",
+    "Name": "Calcium Chloride",
+    "Description": "Product of natural salt brine, but more often prepared chemically. Used as a firming agent and to prevent texture deterioration.",
+    "Use": "Red kidney beans.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E511",
+    "Name": "Magnesium chloride",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E512",
+    "Name": "Stannous chloride",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E513",
+    "Name": "Sulphuric acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E514",
+    "Name": "Sodium sulphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E515",
+    "Name": "Potassium sulphates",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E516",
+    "Name": "Calcium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E517",
+    "Name": "Ammonium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E520",
+    "Name": "Aluminium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E521",
+    "Name": "Aluminium sodium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E522",
+    "Name": "Aluminium potassium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E523",
+    "Name": "Aluminium ammonium sulphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E524",
+    "Name": "Sodium hydroxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E525",
+    "Name": "Potassium hydroxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E526",
+    "Name": "Calcium hydroxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E527",
+    "Name": "Ammonium hydroxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E528",
+    "Name": "Magnesium hydroxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E529",
+    "Name": "Calcium oxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E530",
+    "Name": "Magnesium oxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E535",
+    "Name": "Sodium ferrocyanide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E536",
+    "Name": "Potassium ferrocyanide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E538",
+    "Name": "Calcium ferrocyanide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E541",
+    "Name": "Sodium Aluminium Phosphate",
+    "Description": "Synthetically prepared raising agent.",
+    "Use": "Self-raising flower.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E551",
+    "Name": "Silicon Dioxide (Silica)",
+    "Description": "Derived from sand. Used as an anti-caking agent.",
+    "Use": "Potato snacks",
+    "Animal": "false"
+  },
+  {
+    "Number": "E552",
+    "Name": "Calcium Silicate",
+    "Description": "Salt of Silicon Dioxide with similar functions. Also used as a glazing agent, acid regulator, releasing agent and as a coating agent.",
+    "Use": "Found in chewing gum, meat pies, salt and confectionery.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E553",
+    "Name": "Sodium Silico Aluminate/ magnesium silicate",
+    "Description": "Salt of Silicon Dioxide with similar functions.",
+    "Use": "Often found in packet noodles.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E554",
+    "Name": "Sodium aluminium silicate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E555",
+    "Name": "Potassium aluminium silicate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E556",
+    "Name": "Aluminium calcium silicate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E558",
+    "Name": "Bentonite",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E559",
+    "Name": "Aluminium silicate; Kaolin",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E570",
+    "Name": "Fatty acids",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E574",
+    "Name": "Gluconic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E575",
+    "Name": "Glucono delta-lactone",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E576",
+    "Name": "Sodium gluconate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E577",
+    "Name": "Potassium gluconate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E578",
+    "Name": "Calcium gluconate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E579",
+    "Name": "Ferrous gluconate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E585",
+    "Name": "Ferrous lactate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E620",
+    "Name": "L-Glutamic Acid",
+    "Description": "Naturally occurring amino acid obtained from protein but generally manufactured by bacterial fermentation of carbohydrates. Used as a flavour enhancer and salt substitute.",
+    "Use": "Used as a nutrient to increase protein values.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E621",
+    "Name": "Monosodium Glutamate (MSG)",
+    "Description": "Present naturally in seaweed but generally prepared chemically from sugar beet. Flavour enhancer of protein rich foods.",
+    "Use": "Meat, Chinese foods, packet convenience meals and snacks (eg. soup), dries products, crisps and potato snacks.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E622",
+    "Name": "Monopotassium Glutamate",
+    "Description": "Similar to Monosodium Glutamate.",
+    "Use": "Similar to 621.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E623",
+    "Name": "Calcium Glutamate",
+    "Description": "Similar to Monosodium Glutamate.",
+    "Use": "Similar to 621.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E624",
+    "Name": "Monoammonium glutamate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E625",
+    "Name": "Magnesium diglutamate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E626",
+    "Name": "Guanylic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E627",
+    "Name": "Sodium Guanylate",
+    "Description": "Occurs naturally in sardines and yeast extract but generally manufactured synthetically. Used as a flavour enhancer.",
+    "Use": "Often added to crisps and other potato snacks, gravy granules and pre-cooked dried rice.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E628",
+    "Name": "Dipotassium guanylate",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E629",
+    "Name": "Calcium guanylate",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E630",
+    "Name": "lnosinic acid",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E631",
+    "Name": "Sodium Inosinate",
+    "Description": "Made from sardines and meat extract.",
+    "Use": "Similar to 627.",
+    "Animal": "true"
+  },
+  {
+    "Number": "E632",
+    "Name": "Dipotassium inosinate",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E633",
+    "Name": "Calcium inosinate",
+    "Description": "",
+    "Use": ""
+  },
+  {
+    "Number": "E634",
+    "Name": "Calcium 5'-ribonucleotides",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E635",
+    "Name": "Sodium-5-Ribonucleotide",
+    "Description": "Mixture of 627 and 631.",
+    "Use": "Added to crisps and potato snacks and packet soups.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E640",
+    "Name": "Glycine and its sodium salt",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E650",
+    "Name": "Zinc acetate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E900",
+    "Name": "Dimethylpolysiloxane",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E901",
+    "Name": "Beeswax, white and yellow",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E902",
+    "Name": "Candelilla wax",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E903",
+    "Name": "Carnauba wax",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E904",
+    "Name": "Shellac",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E905",
+    "Name": "Microcrystalline wax",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E912",
+    "Name": "Montan acid esters",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E914",
+    "Name": "Oxidised Polyethylene wax",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E920",
+    "Name": "L-Cysteine",
+    "Description": "",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E927",
+    "Name": "Azodicarbonamide",
+    "Description": "Chemically manufactured flour improver.",
+    "Use": "Common ingredient in flour, bread and baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E927b",
+    "Name": "Carbamide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E938",
+    "Name": "Argon",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E939",
+    "Name": "Helium",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E941",
+    "Name": "Nitrogen",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E942",
+    "Name": "Nitrous oxide",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E943a",
+    "Name": "Butane",
+    "Description": "",
+    "Use": ""
+  },
+  {
+    "Number": "E943b",
+    "Name": "Iso-butane",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E944",
+    "Name": "Propane",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E948",
+    "Name": "Oxygen",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E949",
+    "Name": "Hydrogen",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E950",
+    "Name": "Acesulfame K",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E951",
+    "Name": "Aspartame",
+    "Description": "New artificial sweetener of protein origin. Contains phenylalanine.",
+    "Use": "Artificial sweeteners, confectionery, ice cream, low calorie desserts and soft drinks.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E951",
+    "Name": "Aspartame",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E952",
+    "Name": "Cyclamic acid and its Na and Ca salts",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E953",
+    "Name": "lsomalt",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E954",
+    "Name": "Saccharin",
+    "Description": "Calorie-free artificial sweetener.",
+    "Use": "Low calorie products, soft drinks and confectionery.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E957",
+    "Name": "Thaumatin",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E959",
+    "Name": "Neohesperidine DC",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E965",
+    "Name": "Glucose (hydrogenated) or Maltitol",
+    "Description": "Natural occurring sugar in grapes, corn, etc.",
+    "Use": "Confectionery, cakes, biscuits, puddings, desserts, soft drinks, convenience foods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E966",
+    "Name": "Lactitol",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E967",
+    "Name": "Xylitol",
+    "Description": "Sweeteners",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E999",
+    "Name": "Quillaia extract",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1103",
+    "Name": "Invertase",
+    "Description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1105",
+    "Name": "Lysozyme",
+    "Description": "Preservative",
+    "Use": "",
+    "Animal": "true"
+  },
+  {
+    "Number": "E1200",
+    "Name": "Polydextrose",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1200",
+    "Name": "Polydextrose",
+    "Description": "Natural occurring sugar in grapes, corn, etc.",
+    "Use": "Confectionery, cakes, biscuits, puddings, desserts, soft drinks, convenience foods.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1201",
+    "Name": "Polyvinylpyrrolidone",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1202",
+    "Name": "Polyvinylpolypyrrolidone",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1400-1414",
+    "Name": "Starches",
+    "Description": "Generally of maize, corn, potato, wheat or tapioca in origin. Used to modify texture and stability.",
+    "Use": "Sauces, chutneys, confectionery, desserts, meat, fish, dairy, baked products.",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1404",
+    "Name": "Oxidised starch",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1410",
+    "Name": "Monostarch phosphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1412",
+    "Name": "Distarch phosphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1413",
+    "Name": "Phosphated distarch phosphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1414",
+    "Name": "Acetylated starch",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1420",
+    "Name": "Acetylated Starch",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1422",
+    "Name": "Acetylated distarch adipate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1440",
+    "Name": "Hydroxyl propyl starch",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1442",
+    "Name": "Hydroxy propyl distarch phosphate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1450",
+    "Name": "Starch sodium octenyl succinate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1451",
+    "Name": "Acetylated oxidised starch",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1505",
+    "Name": "Triethyl citrate",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1518",
+    "Name": "Glyceryl triacetate; triacetin",
+    "Description": "",
+    "Use": "",
+    "Animal": "false"
+  },
+  {
+    "Number": "E1520",
+    "Name": "Propylene Glycol",
+    "Description": "Synthetic carrier for extracts, flavours and spices. Functions as a stabiliser and humectant.",
+    "Use": "Miscellaneous foods.",
+    "Animal": "false"
+  }
+ ]
