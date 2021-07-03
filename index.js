@@ -15,6 +15,11 @@ app.get('/api/e-numbers', (request, response) => {
   response.send(ENum);
 })
 
+app.get('/api/e-numbers/:id', (request, response) => {
+  const id = request.params.id
+  const num = ENum.find(x => x.Number === id)
+  response.json(num)
+})
 
 
 
