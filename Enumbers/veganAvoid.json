@@ -1,0 +1,237 @@
+
+[
+    {
+      "Number": "E101",
+      "Name": "Riboflavin",
+      "Category": "Colour",
+      "Details": "Riboflavin is another name for vitamin B2 and can be obtained from animal, plant or fungal sources."
+    },
+    {
+      "Number": "E104",
+      "Name": "Quinoline yellow",
+      "Category": "Colour",
+      "Details": "Might contain traces of gelatine."
+    },
+    {
+      "Number": "E252",
+      "Name": "Potassium nitrate",
+      "Category": "Preservative",
+      "Details": "Also known as saltpetre, this versatile chemical is used in fertilisers, fireworks and for the removal of tree stumps. It is sometimes produced from animal manure, but one might think it wise to avoid even that which has been synthetically produced!"
+    },
+    {
+      "Number": "E270",
+      "Name": "Lactic acid",
+      "Category": "Acidity regulator",
+      "Details": "Can be obtained from animal or plant sources or produced synthetically."
+    },
+    {
+      "Number": "E304",
+      "Name": "Fatty acid esters of ascorbic acid",
+      "Category": "Antioxidant",
+      "Details": "Can be obtained from animal or plant sources."
+    },
+    {
+      "Number": "E322",
+      "Name": "Lecithin",
+      "Category": "Emulsifier",
+      "Details": "Can be obtained from animal or plant sources, usually obtained from soya or sunflowers."
+    },
+    {
+      "Number": "E325",
+      "Name": "Sodium lactate",
+      "Category": "Acidity regulator",
+      "Details": "Produced through fermentation of starch, molasses or sometime whey (from milk)."
+    },
+    {
+      "Number": "E326",
+      "Name": "Potassium lactate",
+      "Category": "Acidity regulator",
+      "Details": "Produced through fermentation of starch, molasses or sometime whey (from milk)."
+    },
+    {
+      "Number": "E327",
+      "Name": "Calcium lactate",
+      "Category": "Acidity regulator",
+      "Details": "Produced through fermentation of starch, molasses or sometime whey (from milk)."
+    },
+    {
+      "Number": "E422",
+      "Name": "Glycerol",
+      "Category": "Emulsifier",
+      "Details": "A simple organic compound that is viscous and sweet-tasting, glycerol can be obtained from plant (often soybeans or palm) or animal sources (rendered animal fat)."
+    },
+    {
+      "Number": "E430",
+      "Name": "Polyoxyethylene compounds",
+      "Category": "Stabiliser or emulsifier",
+      "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E431",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E432",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E433",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E434",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E435",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+        "Number": "E436",
+        "Name": "Polyoxyethylene compounds",
+        "Category": "Stabiliser or emulsifier",
+        "Details": "These polymers of ethylene glycol are usually obtained from plant sources, but sometimes from animal sources."
+    },
+    {
+      "Number": "E442",
+      "Name": "Ammonium phosphatides",
+      "Category": "Emulsifier",
+      "Details": "This ammonium salt is usually made from rapeseed oil, but it can be made from glycerol (see above)."
+    },
+    {
+      "Number": "E445",
+      "Name": "Glycerol esters of wood rosins",
+      "Category": "Emulsifier",
+      "Details": "Produced from glycerol, which may or may not be vegan friendly depending how it in turn was produced."
+    },
+    {
+      "Number": "E470",
+      "Name": "Sodium, potassium, calcium and magnesium salts of fatty acids",
+      "Category": "Anti-caking agent",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E471",
+      "Name": "Mono- and diglycerides of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E472",
+      "Name": "Acid esters of Mono- and diglycerides of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E473",
+      "Name": "Sucrose esters of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Surfactants (surface-active agents) that lower the surface tension between two liquids. Can be produced synthetically or from plant or animal fatty acids."
+    },
+    {
+      "Number": "E474",
+      "Name": "Sucroglycerides",
+      "Category": "Emulsifier",
+      "Details": "Produced through reactions between sucrose and an edible fat, which may be of plant or animal origin."
+    },
+    {
+      "Number": "E475",
+      "Name": "Polyglycerol esters of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E476",
+      "Name": "Polyglycerol polyricinoleate",
+      "Category": "Emulsifier",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E477",
+      "Name": "Propane-1,2-diol esters of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Produced by reacting soy oil with fats that might be derived from plants or animals."
+    },
+    {
+      "Number": "E479",
+      "Name": "Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids",
+      "Category": "Emulsifier",
+      "Details": "Produced by reacting soy oil with fats that might be derived from plants or animals."
+    },
+    {
+      "Number": "E481",
+      "Name": "Sodium stearoyl-2-lactylate",
+      "Category": "Emulsifier",
+      "Details": "Produced with the use of lactic acid (see above) that may have been produced from plant or animal sources."
+    },
+    {
+      "Number": "E482",
+      "Name": "Calcium stearoyl-2-lactylate",
+      "Category": "Emulsifier",
+      "Details": "Produced with the use of lactic acid (see above) that may have been produced from plant or animal sources."
+    },
+    {
+      "Number": "E483",
+      "Name": "Stearyl tartrate",
+      "Category": "Emulsifier",
+      "Details": "Produced by combining tartaric acid and stearyl acid, the latter of which could be derived from plants or animals."
+    },
+    {
+      "Number": "E491 to E495",
+      "Name": "Sorbitan variants",
+      "Category": "Emulsifier",
+      "Details": "Fatty acids that could be produced from plants or animals."
+    },
+    {
+      "Number": "E570",
+      "Name": "Fatty acids",
+      "Category": "Anti-caking agent",
+      "Details": "Usually derived from plant sources, but occasional derived from animal sources."
+    },
+    {
+      "Number": "E585",
+      "Name": "Ferrous lactate",
+      "Category": "Colour",
+      "Details": "Produced by combining iron with lactic acid, which may have been produced using animal derivatives."
+    },
+    {
+      "Number": "E631",
+      "Name": "Disodium inosinate",
+      "Category": "Flavouring",
+      "Details": "Sodium salt of inosinate, an acid that occurs naturally in animals. Often produced using meat or fish."
+    },
+    {
+      "Number": "E635",
+      "Name": "Disodium 5′-ribonucleotides",
+      "Category": "Flavouring",
+      "Details": "Sodium salts of inosinates and guanylic, which are often produced using meat or fish."
+    },
+    {
+      "Number": "E640",
+      "Name": "Glycine and its sodium salt",
+      "Category": "Flavouring",
+      "Details": "Glycine is an amino acid that is usually obtained from gelatine."
+    },
+    {
+      "Number": "E920",
+      "Name": "L-Cysteine",
+      "Category": "Improving agent",
+      "Details": "An amino acid that can be made from duck feathers and animal or human hair, but nowadays, often produced synthetically."
+    },
+    {
+      "Number": "E966",
+      "Name": "Lactitol",
+      "Category": "sweetener",
+      "Details": "A synthetic carbohydrate alcohol, produced from milk sugar (lactose) derived from whey (milk)."
+    }
+   ]
